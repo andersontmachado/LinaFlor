@@ -5,6 +5,6 @@ Comecei com o programa Figma,desenvolvendo o projeto com Interfaces,Imagens,Layo
 Feito isso comecei na IDE VSC e consegui fazer a parte toda do HTML E CSS.
 O site precisará fazer vários testes para poder entrar no âmbito de visitas e vendas externas.
 O aprendizado valeu bastante e agora estou colocando no Github e no Linkedin.
-
+:construction: Projeto em construção :construction:
 
  
